@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**Pronouns:** He/him
+
+If you need to privately message me, please [use this link](https://github.com/ethanc8/ethanc8/security/advisories/new).
+
 <!--
 **ethanc8/ethanc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
