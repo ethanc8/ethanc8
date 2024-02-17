@@ -1,20 +1,27 @@
-### Hi there 👋
+# Hi 👋, I'm Ethan
+
+## I work on open-source software engineering
 
 **Pronouns:** He/him
+**Home:** I live in the Chicagoland area (Northeast Illinois, United States).
 
 If you need to privately message me, please [use this link](https://github.com/ethanc8/ethanc8/security/advisories/new).
 
-<!--
-**ethanc8/ethanc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Areas of interest
 
-Here are some ideas to get you started:
+* Machine learning
+* Large language models and their applications
+* Reverse-engineering proprietary, widely-used protocols, such as iMessage
+* Tools to assist in software development
+* Software to support agricultural productivity and security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages, tools, and frameworks I use
+
+### Use frequently
+
+![](https://avatars.githubusercontent.com/u/1449600?s=200&v=4) ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+
+### Some experience
+
+### Little experience
+
