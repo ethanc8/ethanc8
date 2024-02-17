@@ -15,7 +15,7 @@ If you need to privately message me, please [use this link](https://github.com/e
 * Tools to assist in software development
 * Software to support agricultural productivity and security
 
-## Languages, tools, and frameworks I use
+<!-- ## Languages, tools, and frameworks I use
 
 ### Use frequently
 
@@ -23,5 +23,5 @@ If you need to privately message me, please [use this link](https://github.com/e
 
 ### Some experience
 
-### Little experience
+### Little experience -->
 
