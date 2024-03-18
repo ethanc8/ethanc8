@@ -11,9 +11,9 @@ If you need to privately message me, please [use this link](https://github.com/e
 
 * Machine learning
 * Large language models and their applications
-* Reverse-engineering proprietary, widely-used protocols, such as iMessage
-* Tools to assist in software development
-* Software to support agricultural productivity and security
+* Desktop software
+* Local-first collaboration
+* Robotics
 
 <!-- ## Languages, tools, and frameworks I use
 
